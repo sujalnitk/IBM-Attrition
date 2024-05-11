@@ -22,5 +22,7 @@ This project does XYZ.
 Run the main Python file:
 
 ```bash
+python main.py
+```
 
     
